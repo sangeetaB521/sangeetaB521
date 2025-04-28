@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # Hi there, I'm Sangeeta Bhandarkar 👋
 
