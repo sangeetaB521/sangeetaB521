@@ -12,9 +12,6 @@ I'm a Biotechnology graduate with a passion for data analysis and transforming c
 - [Personal Website](https://sangeeta24bhandark.wixsite.com/my-site-2)
 
 ---
-
-**sangeetaB521/sangeetaB521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on improving my machine learning skills.
