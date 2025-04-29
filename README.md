@@ -1,7 +1,7 @@
 
 # Hi there, I'm Sangeeta Bhandarkar 👋
 
-I'm a Biotechnology graduate with a passion for data analysis and transforming complex data into actionable insights. I aim to leverage data to solve real-world problems across various fields and industries.
+I'm a Biotechnology graduate with a passion for data analytics and transforming complex data into actionable insights. I aim to leverage data to solve real-world problems across various fields and industries.
 
 ## 🔧 Technologies & Tools
 - Python
