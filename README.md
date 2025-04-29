@@ -12,8 +12,7 @@ I'm a Biotechnology graduate with a passion for data analysis and transforming c
 - [Personal Website](https://sangeeta24bhandark.wixsite.com/my-site-2)
 
 ---
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on improving my machine learning skills.
+- You can find some of my SQL and machine learning projects across different fields in my repository
 - 📫 How to reach me: sangeeta24bhandarkar@gmail.com
 - 😄 Pronouns: she/her
