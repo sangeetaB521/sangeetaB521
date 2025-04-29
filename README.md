@@ -10,7 +10,7 @@ I'm a Biotechnology graduate with a passion for data analytics and transforming 
 ## 🔗 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/sangeetab2452)
 - [Personal Website](https://sangeeta24bhandark.wixsite.com/my-site-2)
-
+- [Blogs](https://medium.com/@sangeeta24bhandarkar)
 ---
 - 🔭 I’m currently working on improving my machine learning skills.
 - You can find some of my SQL and machine learning projects across different fields in my repository
